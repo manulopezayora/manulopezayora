@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js and Vue.js**
 
-- 👨‍💻 All of my projects are available at [manulopezayora.github.io](manulopezayora.github.io)
+- 👨‍💻 All of my projects are available at [manulopezayora.github.io](manulopezayora.github.io/portfolio)
 
 - 📫 How to reach me **manulopezayora1985@protonmail.com**
 
