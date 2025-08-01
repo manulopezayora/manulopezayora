@@ -5,6 +5,6 @@ Soy un desarrollador frontend de Ayora (Comunidad Valenciana/España).
 ## Puedes encontrarme en:
 
 - Web personal [manulopezayora.github.io](https://manulopezayora.github.io/portfolio)
+- Correo [manulopezayora1985@protonmail.com](mailto:manulopezayora1985@protonmail.com)
 - [LinkedIn](https://www.linkedin.com/in/manulopezayora/)
 - [Codepen](https://codepen.io/manueljesuslopez)
-- Correo [manulopezayora1985@protonmail.com](mailto:manulopezayora1985@protonmail.com)
